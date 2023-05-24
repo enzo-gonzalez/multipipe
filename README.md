@@ -57,6 +57,6 @@ We would like to thank the contributors and the open-source community for their 
 
 ## Contact
 
-For any questions or inquiries, feel free to reach out to us at [your-email@example.com](mailto:your-email@example.com).
+For any questions or inquiries, feel free to reach out to us at [enzo.gonzalez.almeria@gmail.com](mailto:your-email@example.com).
 
 
