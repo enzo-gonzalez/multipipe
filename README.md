@@ -6,6 +6,8 @@
 
 The nvidiaMultiPipe library is a powerful tool that reduces TensorRT inference time by leveraging the multipipe method. It enables efficient parallel processing of multiple input samples using NVIDIA TensorRT, resulting in improved performance for deep learning inference tasks.
 
+![alt text](https://github.com/enzo-gonzalez/multipipe/blob/main/doc/gpu.webp)
+
 ## Features
 
 - **Multipipe method**: The library implements the multipipe technique to optimize TensorRT inference time by processing multiple input samples simultaneously.
@@ -58,4 +60,3 @@ We would like to thank the contributors and the open-source community for their 
 For any questions or inquiries, feel free to reach out to us at [your-email@example.com](mailto:your-email@example.com).
 
 
-![alt text](https://github.com/enzo-gonzalez/multipipe/blob/main/doc/gpu.webp)
